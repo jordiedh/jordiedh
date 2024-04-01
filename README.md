@@ -36,6 +36,9 @@
     <tr>
       <td><a href="https://github.com/JordieDH/WorldsmartDashboard"><b>Dynamic Zendesk Dashboard</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/JordieDH/URLShortener"><b>URL Shortener</b></a></td>
+    </tr>
   </tbody>
 </table>
 
