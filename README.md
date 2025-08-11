@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Jordie, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197507.png" width="13"/> <b>Adelaide, Australia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>London, UK</b>. </p>
+<p>Welcome to my page! </br> I'm Jordie, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197507.png" width="13"/> <b>Adelaide, Australia</b>.
 <h3>Things I code with</h3>
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
