@@ -36,7 +36,7 @@
       <td><a href="https://github.com/JordieDH/Portfolio"><b>Developer Portfolio for myself</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JordieDH/WorldsmartDashboard"><b>Dynamic Zendesk Dashboard</b></a></td>
+      <td><a href="https://github.com/jordiedh/ZendeskDashboard"><b>Dynamic Zendesk Dashboard</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/JordieDH/URLShortener"><b>URL Shortener</b></a></td>
