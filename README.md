@@ -42,10 +42,10 @@
       <td><a href="https://github.com/JordieDH/URLShortener"><b>URL Shortener</b></a></td>
     </tr>
 	<tr>
-		<td><a href="https://github.com/jordiedh/BetterDarkModeForZendesk">Zendesk Dark Mode Fix Chrome Extension</a></td>
+		<td><a href="https://github.com/jordiedh/BetterDarkModeForZendesk"><b>Zendesk Dark Mode Fix Chrome Extension</b></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/jordiedh/CEFBot">Discord Bot for Charity Workspace</a></td>
+		<td><a href="https://github.com/jordiedh/CEFBot"><b>Discord Bot for Charity Workspace</b></a></td>
 	</tr>
   </tbody>
 </table>
